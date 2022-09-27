@@ -5,7 +5,7 @@
 * I Like videogames.
 
 ## Technical Background
-For technical backgorund I did build my own computer in high school and liked it so much I took a computer basics/networking class. In college I was doing computer engenerring so I know how to do some c and code a microcontroller somewhat. I have sence changed to computer sciece because I just was not enjoying engenerring. In computer sciece I have learned java and some python.
+For technical background I had built my own computer in high school and liked it so much I took a computer basics/networking class. When In college I went into computer engineering so I learned how to do some c code and code for microcontrollers somewhat. I have since changed to computer science because I just was not enjoying engineering. In computer science I have learned java and some python.
 
 
 
