@@ -10,5 +10,5 @@ For technical backgorund I did build my own computer in high school and liked it
 
 
 
-#Meme
+# Meme
 ![Look_at_all_thoes_chickens](https://user-images.githubusercontent.com/99635050/192413060-63d51648-5de2-446f-9063-63d8f3335934.gif)
